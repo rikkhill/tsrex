@@ -1,2 +1,2 @@
 # tsrex
-TS-Rex: Regexes for Time Series
+Regexes for Time Series
