@@ -77,6 +77,8 @@ as modular as possible so we can extend support to other languages such as R in 
 ### Components
 
 #### Sequencer
+A bunch of data structures for representing a sequence of events. Probably the most straightforward part
+of the whole thing.
 
 #### Parser
 Similar to a standard regex parser. Needs to handle braces and infix operators, and return a sequence of
